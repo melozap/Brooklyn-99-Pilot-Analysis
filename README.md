@@ -1,8 +1,8 @@
 # Brooklyn-99-Pilot-Analysis
 
-Performing text analysis and sentiment analysis on the pilot episode of Brooklyn 99
+Performing text analysis and sentiment analysis on the pilot episode of Brooklyn Nine-Nine
 
-Data (Brooklyn 99 Pilot Script) -> https://brooklyn99.fandom.com/wiki/Pilot_Transcript
+Data (Brooklyn Nine-Nine Pilot Script) -> https://brooklyn99.fandom.com/wiki/Pilot_Transcript
 
 Instructions:
 
